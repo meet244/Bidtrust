@@ -6,57 +6,60 @@
 
 <br>
 
-# 🤖 AI-Powered Tender Evaluation & Vendor Shortlisting System
+# 🤖 AI-Powered Tender Discovery & Bid Automation System
 
-An **intelligent, end-to-end procurement platform** designed for government and large-enterprise workflows. The system automates the analysis of technical, financial, eligibility, and legal documents submitted during tenders, reducing manual effort, bias, and evaluation time while improving transparency and auditability.
+An **intelligent, end-to-end procurement platform** built for businesses bidding on government and large-enterprise tenders. The system automatically discovers relevant tenders across scattered portals, matches them to a business's profile and capabilities, and drafts compliant, submission-ready bid documents, reducing manual effort, missed opportunities, and turnaround time while improving win rates and accuracy.
 
-Powered by **Google Gemini AI** and modern cloud infrastructure, this platform accelerates the evaluation process and provides explainable insights, leaving final decisions in the hands of procurement officials.
+Powered by **Google Gemini AI** and modern cloud infrastructure, this platform accelerates the entire bid lifecycle and provides explainable matching, leaving final submission decisions in the hands of the business.
 
 ---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
 ## 🚀 Problem Statement
 
-Government and enterprise procurement processes suffer from severe operational inefficiencies:
+Businesses chasing government and enterprise tenders face severe operational inefficiencies:
 
-- **Massive volumes** of unstructured bid documents (PDFs, scans, spreadsheets)
-- **Multi-stage manual verification** processes taking weeks or months
-- **High dependency** on external consultants for evaluation
-- **Risk of human error, bias, and delays** in vendor selection
-- **Lack of transparency** in reasoning behind vendor scoring
-- **No unified view** for objective comparison across vendors
+- **Fragmented tender sources** scattered across 50+ government portals with no unified feed
+- **Missed opportunities** because relevant tenders are buried or surface too late
+- **Manual eligibility matching** against complex, inconsistent tender requirements
+- **Slow, error-prone bid drafting** across technical, financial, and compliance documents
+- **High dependency** on consultants to interpret requirements and prepare submissions
+- **Inconsistent, low-quality bids** that reduce win rates and invite disqualification
 
-Traditional tender evaluation is slow, opaque, and resource-intensive. Evaluating a single tender often takes weeks with significant consultant costs and potential for inconsistent decision-making.
+Traditional bidding is slow, reactive, and resource-intensive. Finding and responding to a single tender often takes days of manual searching and drafting, with significant consultant costs and a high risk of missing eligible opportunities entirely.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 💡 Solution Overview
 
-An **intelligent, AI-driven tender evaluation system** that orchestrates the entire lifecycle of procurement bids using Generative AI. The platform performs structured, sequential evaluation across five critical stages while generating clear explanations and scores for each vendor.
+An **intelligent, AI-driven tender discovery and bid automation system** that orchestrates the entire bidding lifecycle for businesses using Generative AI. The platform continuously finds relevant tenders, matches them to the business's requirements, and drafts submission-ready documents while generating clear explanations for every match and recommendation.
 
 ### The System Ensures:
-- ⚡ **Faster tender processing** - Reduce evaluation time from weeks to days
-- 🎯 **Consistent rule-based evaluation** - Eliminate bias and inconsistency
-- 📊 **Explainable AI-generated reasoning** - Clear justifications for every score
-- 💰 **Reduced consultant dependency** - Automate 70% of evaluation tasks
-- 🔍 **Fully auditable procurement decisions** - Complete transparency and traceability
+
+- ⚡ **Faster bid turnaround** - Reduce discovery and drafting time from days to hours
+- 🎯 **Accurate tender matching** - Surface only genuinely eligible, relevant opportunities
+- 📊 **Explainable AI-generated reasoning** - Clear justifications for every match and score
+- 💰 **Reduced consultant dependency** - Automate 70% of discovery and drafting tasks
+- 🔍 **Fully auditable bid preparation** - Complete transparency and traceability
 
 ### How It Works:
+
 The system analyzes:
-- Technical specifications & compliance documents
-- Financial proposals & pricing structures
-- Vendor eligibility & experience records
-- Legal documents & compliance certificates
-- Historical performance data
+
+- The business's profile, capabilities, and past performance
+- Tender technical specifications & eligibility criteria
+- Financial and pricing requirements
+- Legal and compliance documentation
+- Historical bid and award data
 
 It then:
-- Creates **automated evaluation pipelines**
-- Generates **AI-powered scoring** with explanations
-- Provides **risk assessment & flagging**
-- Enables **intelligent vendor comparison**
-- Assists in **RFP creation & negotiation**
+
+- Runs **automated tender discovery** across 50+ portals
+- Generates **AI-powered eligibility matching** with explanations
+- Provides **risk and compliance flagging** on requirements
+- Drafts **compliant bid documents, SKU mappings, and pricing sheets**
+- Assists in **bid strategy & submission preparation**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
